@@ -1,0 +1,10 @@
+/* RESET BROWSER STYLES */
+
+* { margin: 0pt; padding: 0pt; }
+
+/* Firefox Scrollbar Hack*/
+html {
+	margin-bottom: 1px;
+	height: 100%!important;
+	height: auto;
+}
